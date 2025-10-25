@@ -1,0 +1,14 @@
+[project]
+name = "graph-dsl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.11"
+dependencies = [
+    "opencv-python>=4.5.0",
+    "numpy>=1.20.0",
+    "tqdm>=4.60.0",
+    "ultralytics>=8.0.0",
+    "scikit-image>=0.18.0",
+    "skimage",
+]
